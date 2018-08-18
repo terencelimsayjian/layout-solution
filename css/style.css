@@ -1,0 +1,32 @@
+h4 {
+    height: 100px;
+    width: 300px;
+    display: inline-block;
+}
+
+span {
+    height:  3000px;
+    width: 5000px;
+}
+
+header, footer {
+    background-color: yellow;
+    border: 1px solid black;
+    height: 100px;
+}
+
+section {
+    background-color: teal;
+    border: 1px solid black;
+    height: 200px;
+    width: 60%;
+    display: inline-block;
+}
+
+aside {
+    background-color: aquamarine;
+    border: 1px solid black;
+    height: 200px;
+    width: 37%;
+    display: inline-block;
+}
